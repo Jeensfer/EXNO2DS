@@ -36,4 +36,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-The code was executed and verifiedd succesfully.
+The code was executed and verified succesfully.
